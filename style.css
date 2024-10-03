@@ -1,0 +1,22 @@
+*{
+    text-align: center;
+   
+}
+
+.img1{
+    height: 35%;
+    width: 40%;
+}
+
+.img2{
+    height: 35%;
+    width: 40%;
+}
+
+table{
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+}
